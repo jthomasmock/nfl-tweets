@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 3167
+cols: 9
+columns:
+  user_id: character
+  status_id: character
+  created_at: POSIXct
+  screen_name: character
+  text: character
+  pic1: character
+  pic2: character
+  pic3: character
+  pic4: character
+type: table

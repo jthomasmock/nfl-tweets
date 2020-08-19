@@ -1,1 +1,5 @@
-[]
+- path: nflscrapr
+  name: nflscrapr
+  rows: 3167
+  cols: 9
+  type: table
